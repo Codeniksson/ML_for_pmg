@@ -4,8 +4,8 @@
 
 ### Pipeline Overview
 
-1. **Step 1 — Run inside the Data_to_D_with_fractures.ipynb in PorePy environment**
-   Go to: https://github.com/keileg/solver_configuration_flow_setups/blob/main/Data_to_D_with_fractures.ipynb
+1. **Step 1 — Run inside the Data_to_D_with_fractures.ipynb in PorePy environment**  
+   Go to: https://github.com/keileg/solver_configuration_flow_setups/blob/main/Data_to_D_with_fractures.ipynb  
    **Input:** Model setup and fracture configuration.  
    **Output:**  
    - Mesh files: `mesh2d_Xfr_id.msh`  
