@@ -1,0 +1,41 @@
+# ---- Large data (your case) ----
+Data_Large/
+Data_Large2/
+Data_Large23/
+Data_Large4/
+
+# ---- Jupyter & notebooks ----
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert.ipynb
+
+# ---- Python build/cache ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.build/
+dist/
+build/
+
+# ---- Environments & local config ----
+.venv/
+venv/
+env/
+.env
+.env.*
+.python-version
+
+# ---- VS Code ----
+.vscode/
+!.vscode/settings.json
+
+# ---- OS noise ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
